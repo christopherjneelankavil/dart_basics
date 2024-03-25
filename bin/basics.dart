@@ -84,9 +84,18 @@ void main() {
 
 // Map
 
-  Map<String, String> map1 = {
-    'name':'Christopher',
-    'address':'My address'
-  };
-  print(map1['name']);
+  // Map<String, String> map1 = {
+  //   'name':'Christopher',
+  //   'address':'My address'
+  // };
+  // print(map1['name']);
+
+//   int a=5;
+//   int b=9;
+//   sum(a,b);
+
+// }
+
+// void sum(int a,int b){
+//   print('Sum : ${a+b}');
 }
