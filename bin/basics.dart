@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //print hello world in terminal
+  //print hello world
   print('Hello World!');
 
   //reading from terminal
